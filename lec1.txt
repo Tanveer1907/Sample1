@@ -1,0 +1,59 @@
+Q1) What is VSC(Version Control System)?
+
+Ans 1) A Version Control System (VCS) is a tool that tracks and manages changes to files over time, commonly used in software development. It enables multiple users to collaborate, supports features like committing changes, branching, and merging, and allows developers to revert to previous versions. Popular VCS tools include Git, SVN, and Mercurial.
+
+Q2) What is git & its features?
+
+Ans2) Git is a distributed version control system that helps developers track changes in their code, collaborate with others, and manage multiple versions of a project efficiently.
+
+Features of Git:
+
+* Distributed architecture
+* Fast performance
+* Branching and merging support
+* Data integrity and security
+* Offline work capabilities
+* Tracks complete change history
+* Supports team collaboration
+
+Q3) What is GitHub and its features?
+
+Ans3) GitHub is a web-based platform that uses Git for version control and provides a collaborative environment for developers to host, manage, and review code.
+
+Features of GitHub:
+
+* Remote Git repository hosting
+* Pull requests and code review
+* Issue tracking and project management
+* Collaboration tools for teams
+* Actions for CI/CD automation
+* Integrated documentation (README, Wiki)
+* Access control and permission settings
+
+Q4) Difference between Git and GitHub?
+
+Ans4) The differences are:
+
+Feature                      Git                            Github
+
+Type            Version Control System(tool)        Web based hosting platform for Git Repositories
+
+Function	Tracks changes in code locally	    Hosts code online and enables collaboration
+ 
+Installation	Installed on local machine	    Accessed via web browser or GitHub Desktop
+
+Collaboration	Requires manual sharing	            Provides built-in collaboration tools
+
+User Interface	Command-line or GUI tools	    Graphical web interface
+
+Internet	Works offline	                    Requires internet to access hosted repositories
+
+Q5) Differences between distributed and centralised?
+
+Ans5) Difference between Distributed and Centralized Version Control Systems:
+
+* Centralized VCS has a single central server where all versions are stored.
+* Distributed VCS allows every user to have a complete copy of the repository.
+* Centralized systems require internet access to commit or update code; distributed systems can work offline.
+* In centralized VCS, if the server fails, data may be lost; in distributed VCS, every copy acts as a backup.
+* Examples: Centralized – SVN; Distributed – Git.
